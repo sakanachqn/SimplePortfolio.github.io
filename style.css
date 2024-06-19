@@ -1,0 +1,15 @@
+body{
+    background-color: #3f3f3f;
+    color: white;
+}
+
+a{
+    color: cyan;
+}
+
+.ScriptImage{
+    width: 1080px;
+    max-height: 600px;
+    overflow-y: auto;
+}
+
