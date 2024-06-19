@@ -1,1 +1,0 @@
-# SinplePortfolio.github.io
